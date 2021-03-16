@@ -14,6 +14,6 @@
 * Tambien pensamos hacer esto
 * Tambien pensamos hacer esto
 
-##Aqui mostramos una pequeña imagen para que la adoren
+## Aqui mostramos una pequeña imagen para que la adoren
 
 ![Imagen](https://codigoesports.com/wp-content/uploads/2021/02/hu-tao-genshin-impact-1-3.jpg)
